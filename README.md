@@ -1,1 +1,5 @@
-# Ugly-Sweater-Greeting-Card
+# Ugly Sweater Greeting Card
+  For my ugly sweater greeting card, I chose the holiday of Groundhog Day. What is my connection to the day? I have never celebrated this day because I do not live in Pennsylvania, but I have always been interested in how the people who live in the town of Punxsutawney allow a cute little groundhog to dictate their lives. The holiday itself derives from the Pennsylvania Dutch superstition that if a groundhog emerges from its burrow on February 2 and sees its shadow due to clear weather, it will retreat to its den, and winter will go on for six more weeks; if it does not see its shadow because of cloudiness, spring will arrive early. It is a cute and awesome holiday that I am choosing to celebrate from a distance. I am not calling the groundhog that I put on the cover ugly, but the graphics of the photo that I found are just terrible. I feel like it is actually kind of cute, but it looks tacky and terrible. I added some flowing flowers and snowflakes, AND a cute flower on Phil’s wrist. The colors that I chose make me want to violently throw up, and the grey greeting card cover reminds me of a hospital. Please enjoy my ugly sweater greeting card.
+
+## running this project
+  To run this project, all files must be downloaded and imported into the images file.
